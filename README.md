@@ -4,8 +4,17 @@ ChrisCal - A minimal jQuery Calendar
 
 ### Quick Usage
 
+1) Clone the repo to your project
+2) run gulp to build the dist folder
+3) Run index.html from the dist folder
 
 ### Documentation
+
+- Plugin Options
+
+- Plugin Methods
+
+- Plugin Events
 
 
 ### Badges
