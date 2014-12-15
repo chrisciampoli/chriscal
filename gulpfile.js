@@ -156,4 +156,4 @@ gulp.task('build', function (done) {
     done);
 });
 
-gulp.task('default', ['build', 'lint:js']);
+gulp.task('default', ['build']);
