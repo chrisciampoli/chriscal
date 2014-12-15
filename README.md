@@ -1,4 +1,4 @@
-ChrisCal - A minimal jQuery Calendar plugin - You render it your way
+ChrisCal - A minimal jQuery Calendar
 ====
 
 
