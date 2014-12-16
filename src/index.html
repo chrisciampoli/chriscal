@@ -47,7 +47,15 @@
                     var calendar = $(this);
                     calendar.empty();
                     calendar.append(dates);
-                });               
+                });
+
+                $('#calendar').on('monthChanged', function(event, month) {
+
+                });
+
+                $('#calendar').on('weekChanged', function(event, week) {
+
+                });             
                 
                 $('#cal-header').chriscal({
                     'body': $('#calendar'),
